@@ -22,7 +22,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
-        <start-class>com.agilyze.simple.spring.SimpleSpringApplication</start-class>
     </properties>
 
     <dependencies>
@@ -51,19 +50,8 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
-                <!--<configuration>-->
-                    <!--<mainClass>${start-class}</mainClass>-->
-                <!--</configuration>-->
             </plugin>
         </plugins>
     </build>
 
-    <profiles>
-        <profile>
-            <id>pojo</id>
-            <properties>
-                <!--<start-class>com.agilyze.simple.pojo.SimplePojoApplication</start-class>-->
-            </properties>
-        </profile>
-    </profiles>
 </project>
