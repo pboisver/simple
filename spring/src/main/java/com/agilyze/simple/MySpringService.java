@@ -1,4 +1,4 @@
-package com.agilyze.simple.spring;
+package com.agilyze.simple;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.ApplicationArguments;

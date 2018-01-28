@@ -1,4 +1,4 @@
-package com.agilyze.simple.spring;
+package com.agilyze.simple;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.ApplicationArguments;
@@ -6,7 +6,7 @@ import org.springframework.boot.ApplicationRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication(scanBasePackages = "com.agilyze.simple.spring")
+@SpringBootApplication
 public class SimpleSpringApplication implements ApplicationRunner {
 
     @Autowired
