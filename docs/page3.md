@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Page 3.7
+homepage: true
 ---
 
 
