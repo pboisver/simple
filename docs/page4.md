@@ -1,11 +1,11 @@
 ---
 layout: page
 # title means in top nav bar
-title: Page 3.7 
+title: Page four 
 ---
 
 
-# Page 3 
+# Page four 
 
 and
 
