@@ -1,4 +1,4 @@
-remote-theme: allejo/jekyll-docs-theme
+remote_theme: "allejo/jekyll-docs-theme"
 name: Simple Stuff
 
 links:
