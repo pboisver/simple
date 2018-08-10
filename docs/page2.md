@@ -1,6 +1,6 @@
 ---
 layout: page
-# no title means not in top nav bar and now jumbotron title
+#no title means not in top nav bar and no jumbotron title
 #title: Page 2 1/2 
 ---
 

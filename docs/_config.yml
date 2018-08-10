@@ -1,5 +1,5 @@
 remote_theme: "allejo/jekyll-docs-theme"
-name: Simple Stuff
+name: Simple Stuff {{ site.github.project_title }}
 
 links:
     header:

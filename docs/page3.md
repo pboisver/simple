@@ -1,6 +1,6 @@
 ---
 layout: page
-# title means in top nav bar
+# title also means in top nav bar and tab
 title: Page 3.7 
 ---
 
