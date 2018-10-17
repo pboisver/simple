@@ -7,4 +7,4 @@ RewriteEngine On
 #RewriteBase /targets
 
 # Rewrite rule to serve JSON-LD content from the vocabulary URI
-RewriteRule ^target$ /targets/target.json
+RewriteRule ^target$ https://pboisver.github.io/simple/targets/target.json
